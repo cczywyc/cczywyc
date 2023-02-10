@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cczyWyc
+- 👋 Hi, I’m @codcrafts
 - 👀 I’m interested in funny things
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
