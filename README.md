@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @codcrafts
+- 👋 Hi, I’m @cczywyc
 - 👀 I’m interested in funny things
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me：cczywyc@gmail.com
+- 📫 How to reach me：cczywyc@qq.com
 
 <!---
 cczyWyc/cczyWyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
